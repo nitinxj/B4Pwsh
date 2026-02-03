@@ -23,10 +23,10 @@ B4Pwsh is a profile‑driven bash shell UX layer on top of PowerShell, with a de
 
 🤝 Few Examples
 
-ll                    # ls -la
-history | tail -3     # Recent cmds
-alias ll='ls -la'     # Persists
-config vi on          # Vi editing
+1. ll                    # ls -la
+2. history | tail -3     # Recent cmds
+3. alias ll='ls -la'     # Persists
+4. config vi on          # Vi editing
 
 ⭐ Star if it works for Enterprise Automation
 
