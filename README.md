@@ -28,8 +28,7 @@ B4Pwsh is a profile‑driven bash shell UX layer on top of PowerShell, with a de
 3. alias ll='ls -la'     # Persists
 4. config vi on          # Vi editing
 
-⭐ Star if it works for Enterprise Automation
-
-**Cloud IT Leaders**—**your feedback drives v1.1** (Ctrl+R, git suite).
+⭐ **Shell enthusiasts, IT leaders, Cloud admins**—Star if it works!  
+**Feedback drives v1.1** (Ctrl+R, git suite).
 
 **LinkedIn**: [nitinxj](https://linkedin.com/in/nitinxj) | **Fork/Star/PRs welcome!**
