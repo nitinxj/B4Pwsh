@@ -2,13 +2,13 @@ B4Pwsh is a profile‑driven bash shell UX layer on top of PowerShell, with a de
 
 ## 🚀 v1.0 Live (Feb 2026)
 
-`✅ Core shell loop + custom prompt 
-✅ Multiple Bash commands: ls/ps/grep/head/tail/rm/cd/cat/history/!! 
-✅ Pipe chains: ls | grep ps1 | head -5 
-✅ Profiles: .profile → .b4pwsh_profile → .b4pwsh_rc 
-✅ Config: vi mode, translation toggle, aliases 
-✅ History persistence 
-✅ Multi-statement: config; ls | grep ps1`
+1. ✅ Core shell loop + custom prompt 
+2. ✅ Multiple Bash commands: ls/ps/grep/head/tail/rm/cd/cat/history/!! 
+3. ✅ Pipe chains: ls | grep ps1 | head -5 
+4. ✅ Profiles: .profile → .b4pwsh_profile → .b4pwsh_rc 
+5. ✅ Config: vi mode, translation toggle, aliases 
+6. ✅ History persistence 
+7. ✅ Multi-statement: config; ls | grep ps1`
 
 ⚡ Install (30 Seconds)
 1. Clone git clone https://github.com/nitinxj/B4Pwsh.git ~/B4Pwsh 
